@@ -17,3 +17,5 @@ here the logo of the camera application.
 ![app logo](https://github.com/user-attachments/assets/a46bcbf1-063a-411b-8676-86cff373b643)
 here is the output of the application.
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/baa792f2-5620-4e36-95dc-e0b736944130">
+app link:
+https://drive.google.com/file/d/1PL_7QYdt1WuDosUVFoC5qR05aHqXMRaF/view?usp=drive_link
